@@ -1,0 +1,14 @@
+[[redirects]]
+  from = "/collect"
+  to = "/.netlify/functions/collect"
+  status = 200
+
+[[redirects]]
+  from = "/key"
+  to = "/.netlify/functions/key"
+  status = 200
+
+[[redirects]]
+  from = "/isVerified"
+  to = "/.netlify/functions/isVerified"
+  status = 200
